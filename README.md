@@ -2,4 +2,4 @@
 
 2-then run the new file with java Main
 
-the url for this repoo :https://github.com/mahmoudss5/FetchGitHubUserActivity/tree/main
+[Project Page URL](https://github.com/mahmoudss5/FetchGitHubUserActivity)
